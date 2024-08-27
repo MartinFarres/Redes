@@ -1,0 +1,6 @@
+
+augusto@gmail.com,River Plate
+marcos@gmail.com,San Lorenzo
+martin@gmail.com,Independiente
+ana@gmail.com,Otro
+rodolfo@gmail.com,Boca Juniors
